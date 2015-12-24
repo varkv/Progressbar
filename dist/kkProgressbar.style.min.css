@@ -1,0 +1,9 @@
+/*!
+ * kkProgressbar 1.0
+ * https://github.com/varkv/kkProgressbar.js
+ * @license MIT licensed
+ *
+ * Copyright (C) 2015 A project by Korol Kirill infokorol@gmail.com
+ */
+
+.kkProgressbar{width:100%;display:none;position:absolute;top:0}.kkProgressbar .progressbar_item{position:relative;height:40px;margin:5px 0;box-sizing:border-box}.kkProgressbar .progress-label{position:absolute;left:0;width:100%;text-align:center;top:8px;font-weight:700;text-shadow:1px 1px 0 #fff}
